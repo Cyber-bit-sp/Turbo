@@ -1,5 +1,10 @@
 # TurboWebFetch
 
+[![npm version](https://img.shields.io/npm/v/turbowebfetch?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/turbowebfetch)
+[![npm downloads](https://img.shields.io/npm/dt/turbowebfetch?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/turbowebfetch)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/aza-ali/turbowebfetch?style=flat-square&logo=github)](https://github.com/aza-ali/turbowebfetch/stargazers)
+
 **Real browsers. Real content. Full fidelity.**
 
 Your AI agents need to read web pages. Documentation, product info, articles, research. But standard fetch tools use plain HTTP - they cannot handle modern client-side rendering or bot mitigation layers, and return empty shells.
