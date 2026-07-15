@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/turbowebfetch?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/turbowebfetch)
 [![npm downloads](https://img.shields.io/npm/dt/turbowebfetch?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/turbowebfetch)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/aza-ali/turbowebfetch?style=flat-square&logo=github)](https://github.com/aza-ali/turbowebfetch/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Cyber-bit-sp/Turbo?style=flat-square&logo=github)](https://github.com/Cyber-bit-sp/Turbo/stargazers)
 
 **Real browsers. Real content. Full fidelity.**
 
@@ -219,6 +219,15 @@ claude mcp add turbowebfetch node /path/to/turbowebfetch/dist/index.js
 ```
 
 ---
+
+## Installation
+
+Clone the repository and install the required dependencies:
+
+```bash
+git clone https://github.com/Cyber-bit-sp/Turbo.git
+cd Turbo
+npm install
 
 ## License
 
