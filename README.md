@@ -28,6 +28,10 @@ Google Chrome must be installed (not Chromium).
 
 ---
 
+## Contributing
+
+Contributions are welcome. Create a feature branch, make your changes, and open a pull request with a clear description.
+
 ## Quick Start
 
 ```bash
