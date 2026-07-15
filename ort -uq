@@ -1,0 +1,58 @@
+[33mfa18a9f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Add shields badges to README header
+[33m49e9101[m Bump version to 1.1.0
+[33m666c0f2[m Fix content extraction for SPAs: detect degenerate Readability output
+[33mfc5fc00[m Fix Python env failures: auto-heal venv, patch nodriver for 3.14+, detect Chrome
+[33m93b844e[m Fix install command - remove invalid -y flag
+[33m1204236[m Fix GitHub URL to correct username (aza-ali)
+[33md0aa106[m Bump version to 1.0.1 for npm publish
+[33md077fb1[m Simplify README swap for npm publish
+[33mcc61653[m Add separate README for npm package
+[33m8772180[m Move Development section to end of README
+[33me05765f[m Update vitest to v4 for security fixes
+[33mb85d944[m Align naming to turbowebfetch, fix npm audit vulnerabilities
+[33m209311c[m Fix TypeScript declaration generation
+[33mf07efed[m Clarify Python setup in README
+[33md09a6d3[m Use professional license text in README
+[33m670206c[m Fix bare except clauses in Python fetcher
+[33m3a8ce03[m Remove unused wait_for_content_stabilization function
+[33m47995ea[m Add local development instructions to README
+[33m98c3c13[m Fix tool name in README
+[33m5b852a3[m Remove unused async wrapper functions
+[33md48ea25[m Update comments to reflect nodriver migration
+[33m6633efd[m Remove dead code stubs from Camoufox migration
+[33m3904894[m Add internal documentation to .gitignore
+[33ma5a5801[m Fix hardcoded paths in Python documentation
+[33m98dc373[m Expand .gitignore with IDE, testing, and build patterns
+[33m808b5b4[m Remove Python bytecode from git tracking
+[33m861c3d1[m Update .gitignore with comprehensive Python and environment patterns
+[33m50b9ca3[m Add npm repository metadata fields
+[33m650cb4f[m Clarify agent middleware architecture in disclaimer
+[33mfbb50e2[m Apply employer polish to README language
+[33m12c9f94[m Replace adversarial keywords with neutral descriptions
+[33mc0576ae[m Diversify README examples away from job listings
+[33mb2a2a83[m Rewrite README for GitHub release
+[33m42c9dca[m Replace auto-stabilization with fixed wait for reliability
+[33me2f3131[m Add logging and improve innerText fallback for content extraction
+[33m14c2aa3[m Implement working auto-stabilization for JS-heavy pages
+[33meb53d70[m Add auto-stabilization for JS-heavy pages and improve tool docs
+[33mbd89be2[m Handle nodriver ExceptionDetails objects in JS evaluation
+[33m3315b16[m Fix major performance issues causing 50+ second fetch times
+[33m13aa335[m Add operation-level timeouts to prevent indefinite hangs
+[33m085645e[m Fix parallel browser conflicts with port allocation and process semaphore
+[33m43e0bdb[m Increase default timeout to 60s and centralize Python path resolution
+[33mb0ec475[m Switch to tsup for minified builds
+[33mbea00e0[m Add automatic Python setup during npm install
+[33me5afd86[m Update package description and postinstall message
+[33m94400a1[m Update documentation for anti-bot bypass and background mode
+[33me5a2b92[m Fix Chrome cleanup and protect user's Chrome from MCP startup kill
+[33m337f605[m Add macOS background app mode for headed Chrome
+[33m4681564[m Add DataDome bypass and off-screen headed mode
+[33m5204719[m Fix infinite retry loop when Cloudflare bypass fails
+[33m089f4fb[m Add Cloudflare bypass with headed mode retry
+[33m7320fe2[m Add human-like behavior for anti-bot evasion
+[33me041bbb[m Migrate from Camoufox to Python/Nodriver for undetected Chrome automation
+[33m2e201be[m Switch to cold start: fresh browser per request
+[33m04ff751[m Use real Chrome instead of bundled Chromium for better stealth
+[33m7de7ac2[m Add visual overlay detection before dismissal to avoid anti-bot triggers
+[33me1bc943[m Tune rate limiter: lower defaults, add domains, variable jitter
+[33m8b1447c[m Add stealth hardening: randomized viewport, retry timing, no geo spoofing
